@@ -31,9 +31,5 @@
 - Building and using generators
 - Implementing custom iterators
 
-6. Functional Programming in Python
-- Applying functional programming principles to solve problems
-- Common functional programming patterns
-
 ---
 © Cybernate IT Services And Consulting. All rights reserved.
