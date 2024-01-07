@@ -35,5 +35,5 @@
 - Applying functional programming principles to solve problems
 - Common functional programming patterns
 
-7. Project - Functional Programming Application
-- Developing an application using functional programming concepts
+---
+© Cybernate IT Services And Consulting. All rights reserved.
